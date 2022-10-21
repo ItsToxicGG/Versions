@@ -1,0 +1,6 @@
+name: Versions
+version: 1.0
+description: By Toxic via Hack To allow versions to join
+api: 4.0.0
+author: ItsToxicGG
+main: Toxic\Versions
